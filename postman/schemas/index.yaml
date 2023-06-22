@@ -161,11 +161,7 @@ components:
           type: string
           format: string
           example: An error occurred while retrieving APIs
-        type:
-          description: The type of error
-          type: string
-          format: string
-          example: about:blank
+
   securitySchemes:
     basicAuth:
       type: http
