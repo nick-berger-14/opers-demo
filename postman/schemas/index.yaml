@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: Cat Facts - Demo
+  title: Cat Facts
   description: This is the cat facts API
   version: 2.0.0
   contact:
