@@ -12,7 +12,7 @@ info:
     url: https://catfact.ninja
   termsOfService: CatFactsTerms
 servers:
-  - url: http://catfact.ninja
+  - url: https://catfact.ninja
     description: Production server
 paths:
   "/breeds":
